@@ -26,7 +26,7 @@
 
 body{
    font-family: "Outfit", sans-serif;
-    max-width: 375px;
+    max-width: 23.4375;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -79,7 +79,7 @@ color: var(--slate-500);
     gap: 1rem;
 }
 
-@media screen and (max-width:90rem){
+@media screen and (min-width:90rem){
 
     body{
         font-family: "Outfit", sans-serif;
