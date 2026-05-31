@@ -82,6 +82,7 @@ color: var(--slate-500);
 @media screen and (max-width:90rem){
 
     body{
+        font-family: "Outfit", sans-serif;
         max-width: 1440px;
         background-color: var(--slate-300);
     }
