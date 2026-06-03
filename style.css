@@ -12,8 +12,8 @@
 /* 500 = 40px  , 300= 24px      200 = 16px */
 
 :root{
-    --text1:22px;
-    --text2:15px;
+    --text1:1.37rem;
+    --text2:0.93rem;
     --slate-900:#1F314F;
     --slate-300:#d5e1ef;
     --slate-500:#68778D;
