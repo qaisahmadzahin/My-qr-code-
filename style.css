@@ -33,7 +33,6 @@ body{
     flex-direction: column;
     background-color: var(--slate-300);
     min-height: 100vh;
-    letter-spacing: -1px;
 }
 
 .wrapper{
@@ -65,7 +64,6 @@ body{
 .paragraph{
     font-size: var(--text2);
     line-height: 140%;
-letter-spacing: 0.2px;
 color: var(--slate-500);
 
 }
