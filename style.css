@@ -33,6 +33,7 @@ body{
     flex-direction: column;
     background-color: var(--slate-300);
     min-height: 100vh;
+    letter-spacing: -1px;
 }
 
 .wrapper{
